@@ -2,7 +2,7 @@ Piconf
 ======
 Configuration service.
 
-[Documentation online](http://go.pkgdoc.org/github.com/kless/piconf)
+[Documentation online](http://godoc.org/github.com/kless/piconf)
 
 ## Installation
 

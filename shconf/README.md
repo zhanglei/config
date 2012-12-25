@@ -2,7 +2,7 @@ ShConf
 ======
 Parser of configuration files based in Unix shell-variables.
 
-[Documentation online](http://go.pkgdoc.org/github.com/kless/config/shconf)
+[Documentation online](http://godoc.org/github.com/kless/config/shconf)
 
 ## Installation
 
